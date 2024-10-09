@@ -29,7 +29,6 @@ public class Developer {
      */
 
     public static String getGithubId() {
-        // TODO: Change this to your github id
         return "Nopesy";
     }
 
